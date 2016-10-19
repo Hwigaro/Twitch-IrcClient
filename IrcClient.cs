@@ -50,11 +50,11 @@ namespace IRC
             return message;
         }
 		
-		public void sendCaps()
-		{
-			sendIrcMessage("CAP REQ :twitch.tv/commands");
+	public void sendCaps()
+	{
+	    sendIrcMessage("CAP REQ :twitch.tv/commands");
             sendIrcMessage("CAP REQ :twitch.tv/membership");
             sendIrcMessage("CAP REQ :twitch.tv/tags");
-		}
+	}
     }
 }
