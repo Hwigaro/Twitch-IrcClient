@@ -1,5 +1,5 @@
 # Twitch-IrcClient
-IRC class for Twitch
+IRC class for Twitch that may help you to make your own bot :)
 
 # Buy me a coffee
 If you enjoyed this resource, or you simply found it useful for something you were trying to get done, and you were wondering how to let me know you appreciated this resource, you can always buy me a coffee. I would appretiate it very much.
